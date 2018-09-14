@@ -1,6 +1,6 @@
 # TravisTest.jl #
 
-[![Build Status](https://staging.travis-ci.org/JuliaCI/TravisTest.jl.svg?branch=master)](https://staging.travis-ci.org/JuliaCI/TravisTest.jl)
+Staging: [![Build Status](https://staging.travis-ci.org/JuliaCI/TravisTest.jl.svg?branch=master)](https://staging.travis-ci.org/JuliaCI/TravisTest.jl)
 
 Repository for testing Julia support at
 the [Travis Continuous Integration][travis] (CI) service.
