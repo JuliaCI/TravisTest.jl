@@ -8,5 +8,7 @@ julia:
 os:
     - linux
     - osx
+coveralls: true
+codecov: true
 matrix:
     fast_finish: true
