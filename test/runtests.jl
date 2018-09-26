@@ -6,4 +6,5 @@ else
 end
 
 # write your own tests here
+@test testfun()
 @test 1 == 2
