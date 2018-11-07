@@ -12,3 +12,5 @@ coveralls: true
 codecov: true
 matrix:
     fast_finish: true
+install:
+    - echo "overwrite?"
