@@ -8,6 +8,7 @@ julia:
 os:
     - linux
     - osx
+    - windows
 coveralls: true
 codecov: true
 matrix:
